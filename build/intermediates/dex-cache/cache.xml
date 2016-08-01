@@ -54,7 +54,7 @@
         jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="774610f62049fc98e54965f7d189c3fafba6d268">
+        sha1="4f2da7bba948a82b5591e55cd74c7ca48ac6d192">
         <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e8c482d7e5cbd581b5f06240b65e829821e08ae9\classes.dex" />
     </item>
     <item
@@ -138,7 +138,7 @@
         jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="2377a6d9d1de41ae8eb3471a53ed86d57fe76f05">
+        sha1="8b4c7258f16cb68d82767a1d594612ae0113355d">
         <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5473a298e5d6f287d37b17c1a4dfe9dcb370b38f\classes.dex" />
     </item>
 

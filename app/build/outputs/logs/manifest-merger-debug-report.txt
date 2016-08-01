@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml:3:5-51
 		INJECTED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidMani
 		INJECTED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml:5:5-28:19
+ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml:5:5-31:19
 MERGED from [com.android.support:appcompat-v7:24.1.0] C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.1.0] C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:24.1.0] C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\AndroidManifest.xml:23:5-20
@@ -86,6 +86,14 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
 		ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.droidsonroids.materialmusicfacts.screens.AlbumDetailsActivity.AlbumDetailsActivity
+ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml:27:9-30:56
+	android:screenOrientation
+		ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml:29:13-49
+	android:theme
+		ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml:30:13-54
+	android:name
+		ADDED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml:28:13-78
 uses-sdk
 INJECTED from C:\Users\Jakub\Desktop\BitchImMadonna-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:24.1.0] C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\AndroidManifest.xml:21:5-23:78

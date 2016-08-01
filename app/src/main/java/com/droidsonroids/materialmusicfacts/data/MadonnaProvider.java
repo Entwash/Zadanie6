@@ -40,6 +40,17 @@ public class MadonnaProvider {
         }
     }
 
+    public String provideMadonnaName() {
+        return mMadonna.getName();
+    }
+
+    public String provideMadonnaSurname() {
+        return mMadonna.getSurname();
+    }
+
+//    public String
+//
+
     private void provideMadonna() {
           try {
                 AssetManager assetManager = App.getInstance().getAssets();

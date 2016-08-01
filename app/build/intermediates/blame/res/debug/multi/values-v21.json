@@ -7,9 +7,30 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endLine": 7,
+                    "endLine": 4,
                     "endColumn": 12,
-                    "endOffset": 360
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 605
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\src\\main\\res\\values-v21\\styles.xml",
@@ -17,19 +38,19 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endLine": 7,
+                        "endLine": 8,
                         "endColumn": 12,
-                        "endOffset": 360
+                        "endOffset": 426
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 365,
+                    "startOffset": 610,
                     "endColumn": 90,
-                    "endOffset": 451
+                    "endOffset": 696
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -44,11 +65,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 456,
+                    "startOffset": 701,
                     "endColumn": 102,
-                    "endOffset": 554
+                    "endOffset": 799
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -63,11 +84,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 559,
+                    "startOffset": 804,
                     "endColumn": 102,
-                    "endOffset": 657
+                    "endOffset": 902
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -82,11 +103,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 662,
+                    "startOffset": 907,
                     "endColumn": 104,
-                    "endOffset": 762
+                    "endOffset": 1007
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -101,11 +122,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 767,
+                    "startOffset": 1012,
                     "endColumn": 106,
-                    "endOffset": 869
+                    "endOffset": 1114
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -120,11 +141,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 874,
+                    "startOffset": 1119,
                     "endColumn": 108,
-                    "endOffset": 978
+                    "endOffset": 1223
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -139,11 +160,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 983,
+                    "startOffset": 1228,
                     "endColumn": 108,
-                    "endOffset": 1087
+                    "endOffset": 1332
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -158,11 +179,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1092,
+                    "startOffset": 1337,
                     "endColumn": 108,
-                    "endOffset": 1196
+                    "endOffset": 1441
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -177,11 +198,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1201,
+                    "startOffset": 1446,
                     "endColumn": 108,
-                    "endOffset": 1305
+                    "endOffset": 1550
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -196,11 +217,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1310,
+                    "startOffset": 1555,
                     "endColumn": 108,
-                    "endOffset": 1414
+                    "endOffset": 1659
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -215,11 +236,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1419,
+                    "startOffset": 1664,
                     "endColumn": 106,
-                    "endOffset": 1521
+                    "endOffset": 1766
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -234,11 +255,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1526,
+                    "startOffset": 1771,
                     "endColumn": 102,
-                    "endOffset": 1624
+                    "endOffset": 1869
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -253,11 +274,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1629,
+                    "startOffset": 1874,
                     "endColumn": 118,
-                    "endOffset": 1743
+                    "endOffset": 1988
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -272,12 +293,12 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1748,
-                    "endLine": 22,
+                    "startOffset": 1993,
+                    "endLine": 26,
                     "endColumn": 12,
-                    "endOffset": 1898
+                    "endOffset": 2143
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -293,12 +314,12 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1903,
-                    "endLine": 24,
+                    "startOffset": 2148,
+                    "endLine": 28,
                     "endColumn": 12,
-                    "endOffset": 2053
+                    "endOffset": 2298
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -314,11 +335,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2058,
+                    "startOffset": 2303,
                     "endColumn": 104,
-                    "endOffset": 2158
+                    "endOffset": 2403
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -333,11 +354,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2163,
+                    "startOffset": 2408,
                     "endColumn": 120,
-                    "endOffset": 2279
+                    "endOffset": 2524
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -352,11 +373,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2284,
+                    "startOffset": 2529,
                     "endColumn": 100,
-                    "endOffset": 2380
+                    "endOffset": 2625
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -371,12 +392,12 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2385,
-                    "endLine": 29,
+                    "startOffset": 2630,
+                    "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 2527
+                    "endOffset": 2772
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -392,12 +413,12 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2532,
-                    "endLine": 31,
+                    "startOffset": 2777,
+                    "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 2668
+                    "endOffset": 2913
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -413,11 +434,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2673,
+                    "startOffset": 2918,
                     "endColumn": 102,
-                    "endOffset": 2771
+                    "endOffset": 3016
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -432,11 +453,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2776,
+                    "startOffset": 3021,
                     "endColumn": 118,
-                    "endOffset": 2890
+                    "endOffset": 3135
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -451,11 +472,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2895,
+                    "startOffset": 3140,
                     "endColumn": 106,
-                    "endOffset": 2997
+                    "endOffset": 3242
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -470,11 +491,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3002,
+                    "startOffset": 3247,
                     "endColumn": 102,
-                    "endOffset": 3100
+                    "endOffset": 3345
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -489,12 +510,12 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3105,
-                    "endLine": 37,
+                    "startOffset": 3350,
+                    "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 3255
+                    "endOffset": 3500
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -510,12 +531,12 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3260,
-                    "endLine": 39,
+                    "startOffset": 3505,
+                    "endLine": 43,
                     "endColumn": 12,
-                    "endOffset": 3426
+                    "endOffset": 3671
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -531,12 +552,12 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3431,
-                    "endLine": 41,
+                    "startOffset": 3676,
+                    "endLine": 45,
                     "endColumn": 12,
-                    "endOffset": 3575
+                    "endOffset": 3820
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -552,12 +573,12 @@
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3580,
-                    "endLine": 43,
+                    "startOffset": 3825,
+                    "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 3740
+                    "endOffset": 3985
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -573,12 +594,12 @@
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3745,
-                    "endLine": 45,
+                    "startOffset": 3990,
+                    "endLine": 49,
                     "endColumn": 12,
-                    "endOffset": 3897
+                    "endOffset": 4142
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -594,12 +615,12 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3902,
-                    "endLine": 47,
+                    "startOffset": 4147,
+                    "endLine": 51,
                     "endColumn": 12,
-                    "endOffset": 4048
+                    "endOffset": 4293
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -615,11 +636,11 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4053,
+                    "startOffset": 4298,
                     "endColumn": 118,
-                    "endOffset": 4167
+                    "endOffset": 4412
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -634,12 +655,12 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 4172,
-                    "endLine": 53,
+                    "startOffset": 4417,
+                    "endLine": 57,
                     "endColumn": 12,
-                    "endOffset": 4539
+                    "endOffset": 4784
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -655,12 +676,12 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 4544,
-                    "endLine": 55,
+                    "startOffset": 4789,
+                    "endLine": 59,
                     "endColumn": 12,
-                    "endOffset": 4688
+                    "endOffset": 4933
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -676,12 +697,12 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 4693,
-                    "endLine": 57,
+                    "startOffset": 4938,
+                    "endLine": 61,
                     "endColumn": 12,
-                    "endOffset": 4837
+                    "endOffset": 5082
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -697,11 +718,11 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 4842,
+                    "startOffset": 5087,
                     "endColumn": 111,
-                    "endOffset": 4949
+                    "endOffset": 5194
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -716,11 +737,11 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 4954,
+                    "startOffset": 5199,
                     "endColumn": 146,
-                    "endOffset": 5096
+                    "endOffset": 5341
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -735,12 +756,12 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 5101,
-                    "endLine": 61,
+                    "startOffset": 5346,
+                    "endLine": 65,
                     "endColumn": 12,
-                    "endOffset": 5249
+                    "endOffset": 5494
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -756,12 +777,12 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 5254,
-                    "endLine": 63,
+                    "startOffset": 5499,
+                    "endLine": 67,
                     "endColumn": 12,
-                    "endOffset": 5396
+                    "endOffset": 5641
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -777,11 +798,11 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 5401,
+                    "startOffset": 5646,
                     "endColumn": 74,
-                    "endOffset": 5471
+                    "endOffset": 5716
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -796,11 +817,11 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 5476,
+                    "startOffset": 5721,
                     "endColumn": 88,
-                    "endOffset": 5560
+                    "endOffset": 5805
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -815,11 +836,11 @@
             },
             {
                 "to": {
-                    "startLine": 66,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 5565,
+                    "startOffset": 5810,
                     "endColumn": 86,
-                    "endOffset": 5647
+                    "endOffset": 5892
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -834,11 +855,11 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 5652,
+                    "startOffset": 5897,
                     "endColumn": 100,
-                    "endOffset": 5748
+                    "endOffset": 5993
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -853,11 +874,11 @@
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 5753,
+                    "startOffset": 5998,
                     "endColumn": 102,
-                    "endOffset": 5851
+                    "endOffset": 6096
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -872,12 +893,12 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 5856,
-                    "endLine": 112,
+                    "startOffset": 6101,
+                    "endLine": 116,
                     "endColumn": 12,
-                    "endOffset": 8919
+                    "endOffset": 9164
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -893,12 +914,12 @@
             },
             {
                 "to": {
-                    "startLine": 113,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 8924,
-                    "endLine": 115,
+                    "startOffset": 9169,
+                    "endLine": 119,
                     "endColumn": 12,
-                    "endOffset": 9105
+                    "endOffset": 9350
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -914,12 +935,12 @@
             },
             {
                 "to": {
-                    "startLine": 116,
+                    "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 9110,
-                    "endLine": 159,
+                    "startOffset": 9355,
+                    "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 12185
+                    "endOffset": 12430
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -935,12 +956,12 @@
             },
             {
                 "to": {
-                    "startLine": 160,
+                    "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 12190,
-                    "endLine": 162,
+                    "startOffset": 12435,
+                    "endLine": 166,
                     "endColumn": 12,
-                    "endOffset": 12383
+                    "endOffset": 12628
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -956,12 +977,12 @@
             },
             {
                 "to": {
-                    "startLine": 163,
+                    "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 12388,
-                    "endLine": 165,
+                    "startOffset": 12633,
+                    "endLine": 169,
                     "endColumn": 12,
-                    "endOffset": 12583
+                    "endOffset": 12828
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -977,12 +998,12 @@
             },
             {
                 "to": {
-                    "startLine": 166,
+                    "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 12588,
-                    "endLine": 167,
+                    "startOffset": 12833,
+                    "endLine": 171,
                     "endColumn": 12,
-                    "endOffset": 12706
+                    "endOffset": 12951
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -998,12 +1019,12 @@
             },
             {
                 "to": {
-                    "startLine": 168,
+                    "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 12711,
-                    "endLine": 169,
+                    "startOffset": 12956,
+                    "endLine": 173,
                     "endColumn": 12,
-                    "endOffset": 12829
+                    "endOffset": 13074
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1019,12 +1040,12 @@
             },
             {
                 "to": {
-                    "startLine": 170,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 12834,
-                    "endLine": 171,
+                    "startOffset": 13079,
+                    "endLine": 175,
                     "endColumn": 12,
-                    "endOffset": 12942
+                    "endOffset": 13187
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1040,12 +1061,12 @@
             },
             {
                 "to": {
-                    "startLine": 172,
+                    "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 12947,
-                    "endLine": 174,
+                    "startOffset": 13192,
+                    "endLine": 178,
                     "endColumn": 12,
-                    "endOffset": 13125
+                    "endOffset": 13370
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1061,12 +1082,12 @@
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 13130,
-                    "endLine": 176,
+                    "startOffset": 13375,
+                    "endLine": 180,
                     "endColumn": 12,
-                    "endOffset": 13256
+                    "endOffset": 13501
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1082,12 +1103,12 @@
             },
             {
                 "to": {
-                    "startLine": 177,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 13261,
-                    "endLine": 179,
+                    "startOffset": 13506,
+                    "endLine": 183,
                     "endColumn": 12,
-                    "endOffset": 13457
+                    "endOffset": 13702
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1103,11 +1124,11 @@
             },
             {
                 "to": {
-                    "startLine": 180,
+                    "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 13462,
+                    "startOffset": 13707,
                     "endColumn": 88,
-                    "endOffset": 13546
+                    "endOffset": 13791
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1122,11 +1143,11 @@
             },
             {
                 "to": {
-                    "startLine": 181,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 13551,
+                    "startOffset": 13796,
                     "endColumn": 110,
-                    "endOffset": 13657
+                    "endOffset": 13902
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1141,12 +1162,12 @@
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 13662,
-                    "endLine": 184,
+                    "startOffset": 13907,
+                    "endLine": 188,
                     "endColumn": 12,
-                    "endOffset": 13890
+                    "endOffset": 14135
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1162,11 +1183,11 @@
             },
             {
                 "to": {
-                    "startLine": 185,
+                    "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 13895,
+                    "startOffset": 14140,
                     "endColumn": 100,
-                    "endOffset": 13991
+                    "endOffset": 14236
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1181,11 +1202,11 @@
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 13996,
+                    "startOffset": 14241,
                     "endColumn": 94,
-                    "endOffset": 14086
+                    "endOffset": 14331
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1200,11 +1221,11 @@
             },
             {
                 "to": {
-                    "startLine": 187,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 14091,
+                    "startOffset": 14336,
                     "endColumn": 122,
-                    "endOffset": 14209
+                    "endOffset": 14454
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1219,11 +1240,11 @@
             },
             {
                 "to": {
-                    "startLine": 188,
+                    "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 14214,
+                    "startOffset": 14459,
                     "endColumn": 128,
-                    "endOffset": 14338
+                    "endOffset": 14583
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1238,11 +1259,11 @@
             },
             {
                 "to": {
-                    "startLine": 189,
+                    "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 14343,
+                    "startOffset": 14588,
                     "endColumn": 116,
-                    "endOffset": 14455
+                    "endOffset": 14700
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1257,12 +1278,12 @@
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14460,
-                    "endLine": 192,
+                    "startOffset": 14705,
+                    "endLine": 196,
                     "endColumn": 12,
-                    "endOffset": 14632
+                    "endOffset": 14877
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1278,11 +1299,11 @@
             },
             {
                 "to": {
-                    "startLine": 193,
+                    "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 14637,
+                    "startOffset": 14882,
                     "endColumn": 98,
-                    "endOffset": 14731
+                    "endOffset": 14976
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1297,12 +1318,12 @@
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 14736,
-                    "endLine": 195,
+                    "startOffset": 14981,
+                    "endLine": 199,
                     "endColumn": 12,
-                    "endOffset": 14866
+                    "endOffset": 15111
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1318,12 +1339,12 @@
             },
             {
                 "to": {
-                    "startLine": 196,
+                    "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 14871,
-                    "endLine": 197,
+                    "startOffset": 15116,
+                    "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 15009
+                    "endOffset": 15254
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1339,12 +1360,12 @@
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 15014,
-                    "endLine": 199,
+                    "startOffset": 15259,
+                    "endLine": 203,
                     "endColumn": 12,
-                    "endOffset": 15144
+                    "endOffset": 15389
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1360,12 +1381,12 @@
             },
             {
                 "to": {
-                    "startLine": 200,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 15149,
-                    "endLine": 201,
+                    "startOffset": 15394,
+                    "endLine": 205,
                     "endColumn": 12,
-                    "endOffset": 15263
+                    "endOffset": 15508
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1381,12 +1402,12 @@
             },
             {
                 "to": {
-                    "startLine": 202,
+                    "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 15268,
-                    "endLine": 205,
+                    "startOffset": 15513,
+                    "endLine": 209,
                     "endColumn": 12,
-                    "endOffset": 15464
+                    "endOffset": 15709
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1402,12 +1423,12 @@
             },
             {
                 "to": {
-                    "startLine": 206,
+                    "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 15469,
-                    "endLine": 207,
+                    "startOffset": 15714,
+                    "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 15583
+                    "endOffset": 15828
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1423,11 +1444,11 @@
             },
             {
                 "to": {
-                    "startLine": 208,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 15588,
+                    "startOffset": 15833,
                     "endColumn": 92,
-                    "endOffset": 15676
+                    "endOffset": 15921
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1442,11 +1463,11 @@
             },
             {
                 "to": {
-                    "startLine": 209,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 15681,
+                    "startOffset": 15926,
                     "endColumn": 110,
-                    "endOffset": 15787
+                    "endOffset": 16032
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1461,11 +1482,11 @@
             },
             {
                 "to": {
-                    "startLine": 210,
+                    "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 15792,
+                    "startOffset": 16037,
                     "endColumn": 55,
-                    "endOffset": 15843
+                    "endOffset": 16088
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1480,12 +1501,12 @@
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 15848,
-                    "endLine": 212,
+                    "startOffset": 16093,
+                    "endLine": 216,
                     "endColumn": 12,
-                    "endOffset": 15950
+                    "endOffset": 16195
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1501,12 +1522,12 @@
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 15955,
-                    "endLine": 216,
+                    "startOffset": 16200,
+                    "endLine": 220,
                     "endColumn": 12,
-                    "endOffset": 16145
+                    "endOffset": 16390
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1522,12 +1543,12 @@
             },
             {
                 "to": {
-                    "startLine": 217,
+                    "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 16150,
-                    "endLine": 218,
+                    "startOffset": 16395,
+                    "endLine": 222,
                     "endColumn": 12,
-                    "endOffset": 16256
+                    "endOffset": 16501
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1543,12 +1564,12 @@
             },
             {
                 "to": {
-                    "startLine": 219,
+                    "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 16261,
-                    "endLine": 220,
+                    "startOffset": 16506,
+                    "endLine": 224,
                     "endColumn": 12,
-                    "endOffset": 16389
+                    "endOffset": 16634
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1564,11 +1585,11 @@
             },
             {
                 "to": {
-                    "startLine": 221,
+                    "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 16394,
+                    "startOffset": 16639,
                     "endColumn": 94,
-                    "endOffset": 16484
+                    "endOffset": 16729
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1583,11 +1604,11 @@
             },
             {
                 "to": {
-                    "startLine": 222,
+                    "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 16489,
+                    "startOffset": 16734,
                     "endColumn": 90,
-                    "endOffset": 16575
+                    "endOffset": 16820
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1602,11 +1623,11 @@
             },
             {
                 "to": {
-                    "startLine": 223,
+                    "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 16580,
+                    "startOffset": 16825,
                     "endColumn": 90,
-                    "endOffset": 16666
+                    "endOffset": 16911
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1621,11 +1642,11 @@
             },
             {
                 "to": {
-                    "startLine": 224,
+                    "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 16671,
+                    "startOffset": 16916,
                     "endColumn": 116,
-                    "endOffset": 16783
+                    "endOffset": 17028
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1640,12 +1661,12 @@
             },
             {
                 "to": {
-                    "startLine": 225,
+                    "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 16788,
-                    "endLine": 226,
+                    "startOffset": 17033,
+                    "endLine": 230,
                     "endColumn": 12,
-                    "endOffset": 16922
+                    "endOffset": 17167
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1661,33 +1682,33 @@
             },
             {
                 "to": {
-                    "startLine": 227,
+                    "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 16927,
-                    "endLine": 229,
+                    "startOffset": 17172,
+                    "endLine": 233,
                     "endColumn": 12,
-                    "endOffset": 17055
+                    "endOffset": 17300
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 495,
-                        "endLine": 15,
+                        "startOffset": 561,
+                        "endLine": 16,
                         "endColumn": 12,
-                        "endOffset": 623
+                        "endOffset": 689
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 230,
+                    "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 17060,
-                    "endLine": 239,
+                    "startOffset": 17305,
+                    "endLine": 243,
                     "endColumn": 12,
-                    "endOffset": 17568
+                    "endOffset": 17813
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1703,12 +1724,12 @@
             },
             {
                 "to": {
-                    "startLine": 240,
+                    "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 17573,
-                    "endLine": 249,
+                    "startOffset": 17818,
+                    "endLine": 253,
                     "endColumn": 12,
-                    "endOffset": 18093
+                    "endOffset": 18338
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1724,12 +1745,12 @@
             },
             {
                 "to": {
-                    "startLine": 250,
+                    "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 18098,
-                    "endLine": 259,
+                    "startOffset": 18343,
+                    "endLine": 263,
                     "endColumn": 12,
-                    "endOffset": 18773
+                    "endOffset": 19018
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1745,11 +1766,11 @@
             },
             {
                 "to": {
-                    "startLine": 260,
+                    "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 18778,
+                    "startOffset": 19023,
                     "endColumn": 56,
-                    "endOffset": 18830
+                    "endOffset": 19075
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1764,11 +1785,11 @@
             },
             {
                 "to": {
-                    "startLine": 261,
+                    "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 18835,
+                    "startOffset": 19080,
                     "endColumn": 57,
-                    "endOffset": 18888
+                    "endOffset": 19133
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1783,32 +1804,32 @@
             },
             {
                 "to": {
-                    "startLine": 262,
+                    "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 18893,
-                    "endLine": 264,
+                    "startOffset": 19138,
+                    "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 19016
+                    "endOffset": 19261
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 366,
-                        "endLine": 11,
+                        "startOffset": 432,
+                        "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 489
+                        "endOffset": 555
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 265,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 19021,
+                    "startOffset": 19266,
                     "endColumn": 88,
-                    "endOffset": 19105
+                    "endOffset": 19350
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1823,12 +1844,12 @@
             },
             {
                 "to": {
-                    "startLine": 266,
+                    "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 19110,
-                    "endLine": 276,
+                    "startOffset": 19355,
+                    "endLine": 280,
                     "endColumn": 12,
-                    "endOffset": 19827
+                    "endOffset": 20072
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1844,12 +1865,12 @@
             },
             {
                 "to": {
-                    "startLine": 277,
+                    "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 19832,
-                    "endLine": 279,
+                    "startOffset": 20077,
+                    "endLine": 283,
                     "endColumn": 12,
-                    "endOffset": 20021
+                    "endOffset": 20266
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1865,12 +1886,12 @@
             },
             {
                 "to": {
-                    "startLine": 280,
+                    "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 20026,
-                    "endLine": 282,
+                    "startOffset": 20271,
+                    "endLine": 286,
                     "endColumn": 12,
-                    "endOffset": 20219
+                    "endOffset": 20464
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.1.0\\res\\values-v21\\values-v21.xml",
@@ -1886,11 +1907,11 @@
             },
             {
                 "to": {
-                    "startLine": 283,
+                    "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 20224,
+                    "startOffset": 20469,
                     "endColumn": 72,
-                    "endOffset": 20292
+                    "endOffset": 20537
                 },
                 "from": {
                     "file": "C:\\Users\\Jakub\\Desktop\\BitchImMadonna-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.1.0\\res\\values-v21\\values-v21.xml",

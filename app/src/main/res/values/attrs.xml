@@ -5,4 +5,7 @@
         <attr name="subtitle" format="string" />
         <attr name="backgroundDrawable" format="reference" />
     </declare-styleable>
+    <declare-styleable name="FloatingActionButtonBehavior">
+        <attr name="direction" format="string"/>
+    </declare-styleable>
 </resources>
