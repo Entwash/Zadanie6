@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_75e556b4097bf5f54310d291c88ca3a59fa24d35\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.2.0_2e7dbbaaab3a17ed7d44f86e9a9238e49030994a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_69d6f66245029c7f1edc31f620e0a7c4eed5b76c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="83b9d1fd6dd3791184d6b60d3a130a993e2987e3">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.0_399e53c679dd5fe18483b39a3e2172cba7be3236\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.0_38bf93dd394125157ba5a5ac0adcd30281f4062f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7b6aebfe347153b327056a3a0171734629c90dfd">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.1.0_b7d4328a3992e4e4fb89d5b10327b9919304a663\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.0\8a23146e1a8c7cb4758e3d3f62449213f1e51f67\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.0_06a7e3ac23507c753f3073ad30cdd9e2c2bb55c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="774610f62049fc98e54965f7d189c3fafba6d268">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e8c482d7e5cbd581b5f06240b65e829821e08ae9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_712e81248aaf6f4d2550e815119a9cb360784de8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.0_b6f7926778d536e4c1d0f8a33aa0de98ecc59b57\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.2.1_b88c0abc0c4114889209ab0568c6bc3461ea4975\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\leanback-v17\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1d55e020d5ca7341fabbd4d02d8f416e50ca700d">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-leanback-v17-24.1.0_94e0cd98c7e06f171eab0519271fcb664a847d10\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.0_a280af7c823258eb5b3e9840f4f75f25fc7cd3d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e589991b14729b52489d30e1d76d640e62ed09a7">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.1.0_b293685961b1c52e8de5cefea5801bafd43fb6e4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.2.1_23e51e1dd1449f4b1c5ef2f69e8287061357cc10\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\design\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8620c018c108eed501bbdb85324b79136373ea44">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.0_719ef7a9105701a47f26152f52e88d274e30d024\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.0_5f3df9f1844e73b3eb6a5556d69c8933dd537c66\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.0_bc523f90fc4df07ee2dd0ccbece885e578e4b312\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.0_f8170044e6c925f00f1f1ab20be2ae7f2c38ccf9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2377a6d9d1de41ae8eb3471a53ed86d57fe76f05">
+        <dex dex="C:\Users\Jakub\Desktop\BitchImMadonna-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5473a298e5d6f287d37b17c1a4dfe9dcb370b38f\classes.dex" />
+    </item>
+
+</items>
